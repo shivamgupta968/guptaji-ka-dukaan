@@ -1,3 +1,4 @@
+https://guptaji-ka-dukaan.onrender.com
 # Guptaji Ka Dukaan — Saree Collection
 
 Full-stack beginner project: responsive storefront, product search/category/price sorting, quantity-aware cart, Express API, SQLite database, and Razorpay checkout integration.
